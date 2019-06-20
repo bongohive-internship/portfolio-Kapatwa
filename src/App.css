@@ -23,6 +23,16 @@
   color: #61dafb;
 }
 
+#me{
+			border-radius:50%;
+			width:75%;
+			max-width: 400px;
+			max-height: 400px;
+}
+p{
+	padding-left: 30px;
+	padding-right: 30px;
+}	
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
